@@ -1,3 +1,3 @@
 # IT115 Final Project
 
-Mirembe 
+Mirembe Kaggwa
